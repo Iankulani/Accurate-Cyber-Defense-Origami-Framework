@@ -1,6 +1,7 @@
 # Accurate-Cyber-Defense-Origami-Framework
 
-![Uploading origami.png…]()
+<img width="1000" height="600" alt="origami" src="https://github.com/user-attachments/assets/9f84dc0b-a3ae-46e6-bdb7-cb8ae3b30f2d" />
+
 
 
 Accurate Cyber Defense Origami Framework is a simplified, layered cybersecurity framework designed to help organizations build strong, adaptive, and efficient defenses.
